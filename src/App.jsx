@@ -1,9 +1,8 @@
 import { BrowserRouter } from "react-router-dom";
-import { About, Feedbacks,Contact, Hero, Navbar, Works } from "./components";
-import Web3d from "./components/web3d";
-import Clients from "./components/Clients.jsx";
-import Footer from "./components/footer/Footer";
-import FooterBottom from "./components/footer/FooterBottom";
+import { About, Feedbacks,Contact, Hero, Navbar, Works } from "./Components";
+import Web3d from "./Components/web3d";
+import Clients from "./Components/Clients";
+import FooterBottom from "./Components/footer/FooterBottom";
 
 
 
@@ -17,6 +16,7 @@ const App = () => {
         </div>
         <About />
         <Works />
+        <Web3d/>
         <Clients/>
         <Feedbacks />
         <div className='relative z-0'>
