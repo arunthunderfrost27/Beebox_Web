@@ -14,7 +14,7 @@ import {
   iiot,
   supply,
   construct,
-} from "../assets";
+} from "../Assets";
 
 export const navLinks = [
   {

@@ -14,7 +14,7 @@ import shibaura from "./images/clients/shibaura.png";
 import youtopian from "./images/clients/youtopian.jpg";
 import siqsess from "./images/clients/siqsess.png";
 import caterpillar from "./images/clients/caterpillar.png";
-import iiot from "../assets/iiot.png";
+import iiot from "../Assets/iiot.png";
 import supply from "./supply chain.png";
 import construct from "./constr.png";
 import css from "./tech/css.png";

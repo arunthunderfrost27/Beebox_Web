@@ -1,4 +1,4 @@
-import abstract from '../assets/abstract1.mp4'
+import abstract from '../Assets/abstract1.mp4'
 
 const Hero = (source_code_link) => {
   return (
